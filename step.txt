@@ -1,0 +1,16 @@
+# ARP Poisoning Attack (Kali Attacker → Windows Victim)
+
+## Environment
+- **Attacker (Kali Linux):** 192.168.0.108  
+- **Victim (Windows):** 192.168.0.100  
+- **Gateway/Router:** 192.168.0.1  
+- Tools used: **Ettercap GUI**, **Wireshark**, **PowerShell**
+
+---
+
+## 1. Check Network Info on Victim (Windows)
+On the victim machine:
+
+```powershell
+ipconfig
+arp -a
