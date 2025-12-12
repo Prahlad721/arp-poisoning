@@ -12,6 +12,8 @@
 ![WhatsApp Image 2025-12-10 at 18 06 56_c1ab6611](https://github.com/user-attachments/assets/a9f2bfb4-f1ce-4df4-9443-c13c622f0d6c)
 ![WhatsApp Image 2025-12-10 at 18 06 55_cf043aaa](https://github.com/user-attachments/assets/2a8ccfd2-a8eb-417f-a326-44c805805096)
 ![WhatsApp Image 2025-12-10 at 18 04 52_70a6dd3f](https://github.com/user-attachments/assets/8633d946-44f7-459f-8b44-f4ac8f51d372)
+![WhatsApp Image 2025-12-11 at 00 28 12](https://github.com/user-attachments/assets/32c3475d-dc32-4bcb-878d-b768ea82e1ac)
+![WhatsApp Image 2025-12-11 at 00 27 30](https://github.com/user-attachments/assets/164e1d85-476a-4d8c-8da5-b2aa12173c8a)
 
 
 ## 1. Check Network Info on Victim (Windows)
